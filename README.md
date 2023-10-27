@@ -9,3 +9,7 @@ Automated Machine Learning with PyCaret and Experiment Tracking with Weights & B
 - `wandb_demo.ipynb`: Jupyter notebook demo for Weights & Biases functionality
 - `pycaret_demo.ipynb`: Jupyter notebook demo for PyCaret functionality
 - `automated_ml.ipynb`: Lab Jupyter notebook for Automated ML with PyCaret and Experiment Tracking with Weights & Biases
+
+
+## Installation issues for MacOS
+- https://stackoverflow.com/questions/74566704/cannot-install-lightgbm-3-3-3-on-apple-silicon
